@@ -87,9 +87,16 @@ body{
 }
 .word2{
   margin: 2px auto;
-  height: 200px;
+  height: 300px;
   width: 350px;
   border: none;
   background-color: blue;
   box-shadow: 0 0 10px -1px black;
+}
+.work{
+  color: black;
+ font-size: 25px;
+ font-family: 5px;
+ font-weight: bold;
+ font-family: cursive;
 }
