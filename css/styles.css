@@ -1,5 +1,5 @@
 .jumbo{
-  color: rgba(0, 0, 0, 0.699);
+  color: black;
   background-color: rgba(0, 0, 255, 0.603);
   height: 200px;
   width: 1000px;
@@ -14,7 +14,10 @@
 }
 #jazz{
  color: black;
- 
+ font-size: 25px;
+ font-family: 5px;
+ font-weight: bold;
+ font-family: cursive;
 }
 #sos{
   font-family: cursive;
@@ -56,4 +59,22 @@ body{
 #mike{
   justify-content: center;
   display: flex;
+}
+#button1{
+  background-color: blue;
+  border: none;
+  border-radius: 10px;
+  font-size: 25px;
+  font-family: 5px;
+  font-weight: bold;
+  
+}
+#button2{
+  background-color: blue;
+  border: none;
+  border-radius: 10px;
+  font-size: 35px;
+  font-family: 35px;
+  font-weight: bold;
+  
 }
