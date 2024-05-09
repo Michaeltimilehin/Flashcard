@@ -21,10 +21,9 @@
 }
 #sos{
   font-family: cursive;
-  
 }
 .text{
- 
+  font-family: cursive;
 }
 body{
   background-color: blue;
@@ -77,4 +76,20 @@ body{
   font-family: 35px;
   font-weight: bold;
   
+}
+.word{
+  margin: 2px auto;
+  height: 200px;
+  width: 600px;
+  border: none;
+  background-color: blue;
+  box-shadow: 0 0 10px -1px black;
+}
+.word2{
+  margin: 2px auto;
+  height: 200px;
+  width: 350px;
+  border: none;
+  background-color: blue;
+  box-shadow: 0 0 10px -1px black;
 }
