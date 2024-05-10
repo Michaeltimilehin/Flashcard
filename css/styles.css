@@ -61,6 +61,8 @@ body{
   display: flex;
 }
 #button1{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -70,6 +72,8 @@ body{
   
 }
 #button2{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -102,6 +106,8 @@ body{
  font-family: cursive;
 }
 #button3{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -111,6 +117,8 @@ body{
   
 }
 #button4{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -120,6 +128,8 @@ body{
   
 }
 #button5{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -129,6 +139,8 @@ body{
   
 }
 #button6{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -138,6 +150,8 @@ body{
   
 }
 #button7{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -147,6 +161,8 @@ body{
   
 }
 #button8{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -156,6 +172,8 @@ body{
   
 }
 #button9{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
@@ -165,6 +183,8 @@ body{
   
 }
 #button10{
+  height: 100px ;
+  width: 400px ;
   background-color: green;
   border: none;
   border-radius: 10px;
